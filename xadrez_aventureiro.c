@@ -9,10 +9,10 @@
 // Desafio: Xadrez Nível Aventureiro.
 
 // Obs.:
-// A peça do Bispo se move 5 casas (para cima e a direita) simulando uma diagonal nesse desafio.
-// A peça da Rainha se move 8 casas para a esquerda nesse desafio.
-// A peça da Torre se move 5 casas para direita nesse desafio.
-// A peça do Cavalo se 2 Casas Para Cima e Uma Para a Direita (Movimento em L).
+// A peça Bispo se move 5 casas (para cima e a direita) simulando uma diagonal nesse desafio.
+// A peça Rainha se move 8 casas para a esquerda nesse desafio.
+// A peça Torre se move 5 casas para direita nesse desafio.
+// A peça Cavalo se 2 Casas Para Cima e Uma Para a Direita (Movimento em L).
 
 // Função principal do programa, ponto de entrada da execução em C.
 int main()
